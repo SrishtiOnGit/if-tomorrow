@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Love+Ya+Like+A+Sister&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap");
+
+:root {
+  --color-midnight: #070a14;
+  --color-deepspace: #0d1222;
+  --color-cards: #121a2d;
+  --color-ele-surface: #28204a;
+  --color-sec-accent: #9b8bc7;
+  --color-text: #f4f1ea;
+  --color-sec-text: #c8cbd5;
+  --color-muted: #a7adbd;
+  --color-pri-accent: #d5b06a;
+  --color-border: #252b3a;
+
+  --font-logo: "Love Ya Like A Siste";
+  --font-text: "Roboto Serif";
+  --font-capsule-text: "Caveat";
+}
