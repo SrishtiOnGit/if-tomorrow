@@ -1,0 +1,45 @@
+.hero {
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+
+.hero-label {
+  text-align: center;
+  color: var(--pri-accent);
+  font-family: var(--capsule-text);
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+}
+
+.hero-title {
+  text-align: center;
+  color: var(--main-text);
+  font-family: var(--logo);
+  font-size: 3rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.hero-text {
+  text-align: center;
+  color: var(--sec-text);
+  font-family: var(--text);
+  font-size: 1.2rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+.hero-button {
+  background-color: var(--pri-accent);
+  color: var(--main-text);
+  border: none;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+}
